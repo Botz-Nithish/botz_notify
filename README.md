@@ -197,12 +197,7 @@ Use `positionIcon` to change where the icon appears relative to the notification
 
 ## Dependencies
 
-- `motion` - For animations
-- `lucide-react` - For default icons
-- `@radix-ui/react-slot` - For component composition
-- `class-variance-authority` - For component variants
-- `tailwind-merge` - For class merging
-- `tailwindcss` - For styling
+ox_lib for the menu
 
 ## License
 
