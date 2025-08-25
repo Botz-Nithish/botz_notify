@@ -10,7 +10,7 @@ A modern, customizable notification system for FiveM with beautiful animations a
 - 🌈 **Custom Colors** - Override default colors with custom hex values
 - 📱 **Responsive Design** - Works on all screen sizes
 - ⚡ **Easy Integration** - Simple exports for other resources
-
+ Preview: https://www.youtube.com/watch?v=fc6PGxjgGno
 ## Installation
 
 1. Download the resource
