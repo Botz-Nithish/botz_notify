@@ -176,8 +176,6 @@ exports['botz_notify']:showNotification({
 
 ### Client Commands
 - `/test:notification [type] [title] [description]` - Test client-side notifications
-- `/show:nui` - Show the demo interface
-- `/hide:nui` - Hide the demo interface
 
 ### Server Commands
 - `/test:serverNotification [type] [title] [description]` - Test server-side notifications
